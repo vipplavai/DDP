@@ -13,5 +13,11 @@ setup(
     	"scikit-learn==1.0.2",
     	"pandas==1.4.2",
     	"matplotlib==3.6.3",
+        "paramiko",
+        "datasets",
+        "transformers",
+        "tqdm",
+        "datetime",
+        "nltk"
 	],
 )
